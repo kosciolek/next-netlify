@@ -2,5 +2,5 @@
 my-widget:
   some: field
 my-widgetasd:
-  field: sdfgdfsg
+  field: THIS IS SOME FIELD VALUE lol
 ---
